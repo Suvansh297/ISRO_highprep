@@ -1,6 +1,6 @@
 # High-Resolution Lunar Mapping
 
-**Team 57 | Inter IIT Tech Meet 2024 | Problem Statement 4**
+** Inter IIT Tech Meet 13.0 | Problem Statement 4**
 
 ## Project Overview
 
@@ -86,8 +86,8 @@ These techniques could significantly enhance the resolution of CLASS data, poten
 
 ## About
 
-This project was developed for the Inter IIT Tech Meet 2024, representing IIT Bhubaneswar's response to ISRO Problem Statement 4. The work demonstrates practical application of XRF spectroscopy principles to planetary science, combining data processing, spectral analysis, and interactive visualization to make lunar composition data accessible and interpretable.
+This project was developed for the Inter IIT Tech Meet 13.0, representing IIT Bhubaneswar's response to ISRO Problem Statement 4. The work demonstrates practical application of XRF spectroscopy principles to planetary science, combining data processing, spectral analysis, and interactive visualization to make lunar composition data accessible and interpretable.
 
 ---
 
-**Team 57 | IIT Bhubaneswar | November 2024**
+** IIT Bhubaneswar | November 2024**
