@@ -1,6 +1,6 @@
 # High-Resolution Lunar Mapping
 
-** Inter IIT Tech Meet 13.0 | Problem Statement 4**
+**Inter IIT Tech Meet 13.0 | Problem Statement 4**
 
 ## Project Overview
 
@@ -90,4 +90,4 @@ This project was developed for the Inter IIT Tech Meet 13.0, representing IIT Bh
 
 ---
 
-** IIT Bhubaneswar | November 2024**
+**IIT Bhubaneswar | November 2024**
