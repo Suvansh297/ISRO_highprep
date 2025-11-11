@@ -67,6 +67,7 @@ We score potential mineral matches by comparing observed ratios against referenc
 ## Repository Contents
 
 ```
+├──Elemental abundances/   # The code which were used for catalogue detection
 ├── Interactive Map/       # HTML interactive visualization files
 ├── Lunar Basemaps/        # Generated elemental distribution heat maps
 ├── Report and Journal/    # Full technical report and documentation
